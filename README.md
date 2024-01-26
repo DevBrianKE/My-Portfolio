@@ -1,4 +1,4 @@
-Kipchumba Brian Portfolio
+# Kipchumba Brian Portfolio
 
 Welcome to my personal portfolio! This repository showcases my skills, projects, and a bit about me.
 
