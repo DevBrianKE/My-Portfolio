@@ -59,7 +59,7 @@ Explore some of my standout projects:
 5. **Project 5: Interactive Data Visualization Dashboard**
    - _Description:_ A dynamic dashboard that visualizes complex data sets in an interactive and user-friendly manner. Use D3.js or Chart.js for the visualizations.
    - _Technologies Used:_ HTML, CSS, JavaScript, D3.js or Chart.js
-   - [Link to Project](#) _(if applicable)_
+   - [Link to Project](#) \_(if applicable)
 
 ---
 
