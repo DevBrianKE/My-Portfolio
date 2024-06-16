@@ -6,6 +6,13 @@ body {
     color: #333;
 }
 
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 header {
     background: linear-gradient(135deg, #6e8efb, #a777e3);
     color: white;
