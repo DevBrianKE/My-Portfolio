@@ -1,6 +1,13 @@
-# Kipchumba Brian | Junior Software Engineer
+# Kipchumba Brian's Portfolio
 
-Welcome to my professional portfolio! 🚀
+Welcome to my professional portfolio! This portfolio showcases my skills, projects, and contact information.
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
 
 ## About Me
 
@@ -8,37 +15,21 @@ I am Kipchumba Brian, a junior software engineer passionate about developing rob
 
 ## Skills
 
-Here are some of the key skills that define my expertise:
-
-- **Programming Languages:** JavaScript, HTML, CSS, Python
-- **Web Development:**
+- Programming Languages: JavaScript, HTML, CSS, Python
+- Web Development:
   - Frontend: HTML, CSS, JavaScript
   - Responsive Design
   - Client-side frameworks: React, Vue
-- **Backend Technologies:**
-  - Node.js with Express.js
-  - Flask, Django
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Version Control:** Git
+- Backend Technologies: Node.js with Express.js, Flask, Django
+- Databases: MongoDB, MySQL, PostgreSQL
+- Version Control: Git
 
 ## Projects
 
-_(Add my projects here with brief descriptions and links)_
+- [Project 1](#) - Description of Project 1.
+- [Project 2](#) - Description of Project 2.
+- [Project 3](#) - Description of Project 3.
 
 ## Contact
 
-Let's connect! Here's how you can reach out to me:
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kipchumba-brian-3a3a41150/)
-- **GitHub:** [Your GitHub Profile](https://github.com/DevBrianHQ)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your-twitter-handle)
-- **Blog:** [Your Personal Blog](https://your-personal-blog.com)
-- **Stack Overflow:** [Your Stack Overflow Profile](https://stackoverflow.com/?newreg=56bf2e84df9f4d89a59414810a2035d6)
-- **Portfolio:** [Your Portfolio Website](https://your-portfolio-website.com)
-
-Feel free to drop me a message, and let's explore opportunities for collaboration and innovation together!
-
----
-
-_This README is powered by a passion for coding and a commitment to excellence!_ 🌟
+Feel free to reach out to me via email at kipchumbabrian47@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/kipchumba-brian-3a3a41150/).
