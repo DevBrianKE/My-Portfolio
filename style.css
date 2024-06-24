@@ -1,47 +1,10 @@
+ /* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     background: #f0f0f0;
     color: #333;
-}
-
-
-header {
-    background: linear-gradient(135deg, #6e8efb, #a777e3);
-    color: white;
-    text-align: center;
-    padding: 2rem 0;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 2.5rem;
-}
-
-header p {
-    margin: 0.5rem 0;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    transition: background 0.3s;
-}
-
-nav a:hover {
-    background: rgba(255, 255, 255, 0.2);
 }
 
 main {
@@ -67,28 +30,79 @@ ul li {
     margin-bottom: 0.5rem;
 }
 
-.project {
+/* Project Sections */
+.project-section {
     background: white;
     padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 5px;
+    margin-bottom: 2rem;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-footer {
-    background: #333;
+#data-science-projects {
+    background-color: #e0f7fa;
+}
+
+#software-engineering-projects {
+    background-color: #f3e5f5;
+}
+
+.project-section h3 {
+    color: #6e8efb;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.project-section h4 {
+    color: #333;
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+}
+
+.project-section p {
+    margin: 0.5rem 0;
+}
+
+.project-section a {
+    color: #6e8efb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-section a:hover {
+    text-decoration: underline;
+}
+
+.project-section button {
+    background: #6e8efb;
     color: white;
-    text-align: center;
-    padding: 1rem 0;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
 }
 
-footer p {
-    margin: 0;
+.project-section button:hover {
+    background: #5a7cd1;
 }
 
+/* Responsive Styles */
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
         align-items: center;
+    }
+
+    .project-section {
+        padding: 1rem 0.5rem;
+    }
+
+    .project-section h4 {
+        font-size: 1.2rem;
+    }
+
+    .project-section button {
+        padding: 0.3rem 0.5rem;
     }
 }
